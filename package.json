@@ -1,5 +1,5 @@
 {
-"name": "ASITHA-MD",
+"name": "DEMOND-MD",
 "version": "6.0.0",
 "description": "A WhatsApp bot created using Node.js",
 "main": "start.js",
@@ -7,7 +7,7 @@
   "scripts": {
     "start": "pm2 start start.js --deep-monitoring --attach --name ASITHA-MD",
     "stop": "pm2 stop ASITHA-MD",
-    "restart": "pm2 restart ASITHA-MD"
+    "restart": "pm2 restart DEMOND-MD"
   },
   "dependencies": {
     "@adiwajshing/keyed-db": "latest",
